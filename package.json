@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.1",
+    "@mui/material": "^7.3.1",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "name": "llm-based-invoice-extractor",
+  "version": "1.0.0",
+  "description": "This repository hosts the source code for an Invoice Extractor application powered by a Language Model (LLM). The application leverages advanced natural language processing techniques to intelligently extract relevant information from invoices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RPramodh/LLM-based-Invoice-Extractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RPramodh/LLM-based-Invoice-Extractor/issues"
+  },
+  "homepage": "https://github.com/RPramodh/LLM-based-Invoice-Extractor#readme",
+  "devDependencies": {
+    "vite": "^7.1.2"
+  }
+}

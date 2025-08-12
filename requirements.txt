@@ -3,4 +3,5 @@ google-generativeai
 python-dotenv
 langchain
 PyPDF2
+PyMuPDF
 chromadb
